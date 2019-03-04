@@ -12,7 +12,7 @@ The article (Hill, 2018) ...
 - most managers struggle at their first management position
 - new managers need to understand the nature of their role
 - succeeding as a manager requires different skills than succeeding as a
-  individual contributor 
+  individual contributor
 - learning to lead is a process of learning by doing
 - new managers have misconceptions about what it means to be the boss
 - authority does not just come with the new position, but with earned
@@ -45,8 +45,13 @@ January 2007 Issue
 
 # Questions
 
-1. What?
-2. What the fuck?
-3. What the actual fuck?
-4. Excuse me, what the fuck?
-5. Excuse me, are you _fucking_ kidding me?
+1. How can you tell when you are facing ordinary adjustment problems and when it is your actual wrong-doing? What are key indicators?
+2. Aren't these adjustment problems a neccessity to prepare you as a manager for worse situations?
+3. What are some of these problems that almost always occur when transitioning to a first manager position?
+4. Will becoming a manager stay equally hard when many companies are themselves transitioning from hierarchical to more flat organizations? Are there similarities or fundamental differences?
+5. Aren't there also situations where neglecting all forms of authority in order to build better relationships with subordinates become a problem in itself?
+6. Excuse me, are you _fucking_ kidding me?
+7. Still, are you *fucking* kidding me?
+
+
+
