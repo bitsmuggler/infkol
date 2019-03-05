@@ -15,6 +15,7 @@ author: Patrick P. Bucher, Christopher J. Christensen
 - JWT: JSON Web Tokens
 - OIDC: OpenID Connect
 - Implementations and Libraries
+- Vulnerabilities and Weaknesses
 
 # Sources
 
