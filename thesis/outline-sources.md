@@ -14,7 +14,7 @@ author: Patrick P. Bucher, Christopher J. Christensen
 - Bearer Tokens
 - JWT: JSON Web Tokens
 - OIDC: OpenID Connect
-- Tools and Libraries
+- Implementations and Libraries
 
 # Sources
 
