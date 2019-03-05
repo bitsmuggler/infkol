@@ -5,7 +5,8 @@ DATE=-V date="`date +'%Y-%m-%d'`"
 all: 1-managerial-skills/summary-questions_bucher-christensen.pdf
 
 1-managerial-skills/summary-questions_bucher-christensen.pdf: 1-managerial-skills/*.md
-	pandoc $(PDFPARAMS) $(FONTPARAMS) $(DATE) $^ -o $@
+	# pandoc $(PDFPARAMS) $(FONTPARAMS) $(DATE) $^ -o $@
+	pandoc $^ -t ms -o $@
 
 clean:
 	rm -f 1-managerial-skills/summary-questions_bucher-christensen.pdf
