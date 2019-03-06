@@ -47,9 +47,9 @@ January 2007 Issue
 
 ## The Eisenhower Matrix
 
-- A manager needs to deal with urgent and important tasks on its own immediately.
+- A manager needs to deal with urgent and important tasks on his own immediately.
 - Tasks that are neither urgent nor important he must discard.
-- Important tasks without urgency tend to become urgent as time goes and
+- Important tasks without urgency tend to become urgent as time goes, and
   therefore require a plan for dealing with them.
 - Unimportant but urgent tasks must be delegated to an appropriate subordinate.
 
@@ -73,15 +73,15 @@ quadrant accordingly.
 
 ## The Pyramids
 
-An organisation can be seen as a pyramid, in which the hierarchies (C-level
-executives, middle management and employees) are represented by horizontal
-borders, or _hierarchical_ barriers, because one not simply moves from one
+An organisation can be seen as a pyramid, in which the hierarchy levels (C-level
+executives, middle management and employees) are separated by horizontal
+borders, or _hierarchical barriers_, because one not simply moves from one
 layer to the next one. Lines from the pyramid's tip to its base form the
 functional borders between departments (HR, Finance, Engineering, etc.), or
-_functional barriers_, because those departments not always interoperate
-smoothly (_isolated islands_). The hierarchical and functional barriers
-combined result in a organisation with inhibited exchange both horizontally and
-vertically, which are referred toas _isolated knowledge islands_.
+_functional barriers_, if those departments not interoperate smoothly
+(_isolated islands_). The hierarchical and functional barriers combined result
+in a organisation with inhibited exchange both horizontally and vertically,
+which are referred to as _isolated knowledge islands_.
 
 ## The Three Ways
 
@@ -119,18 +119,18 @@ subordinates can be distinguished as follows:
       spread.
 3. What are some of these problems that almost always occur when transitioning
    to a first manager position?
-    - It is hard to step out of an engineering role and mindset.
+    - It is hard to step out of one's engineering role and mindset.
     - Building trust in subordinates is hard, especially if you can perform
-      some jobs better at the beginning.
+      some jobs better than them at the beginning.
     - Developing management skills (planning, negotiating, leading) takes time
       and effort.
-4. Will becoming a manager stay equally hard when many companies are themselves
-   transitioning from hierarchical to more flat organizations?
+4. Will becoming a manager stay equally hard when many companies are
+   transitioning from hierarchical to more flat organizations themselves?
     - Organizations are always measured by their success, and so are managers,
       no matter how the organization is structured.
     - Changing into a management position, be it a team leader in an
       hierarchical organization, or a _Product Owner_ or _Scrum Master_ in an
-      agile start-up, is always difficult and requires a new skill set.
+      agile start-up, is always difficult and requires a new set of skills.
 5. Aren't there also situations where neglecting all forms of authority in
    order to build better relationships with subordinates become a problem in
    itself?
