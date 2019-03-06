@@ -54,7 +54,7 @@ January 2007 Issue
 - Unimportant but urgent tasks must be delegated to an appropriate subordinate.
 
 Succesful managers can handle the tasks of the _task list_ and _delegate_
-quadrant accordingly.
+quadrant accordingly. (Schaub, 2019).
 
     +         urgency        -
       |----------|-----------|
@@ -81,7 +81,7 @@ functional borders between departments (HR, Finance, Engineering, etc.), or
 _functional barriers_, if those departments not interoperate smoothly
 (_isolated islands_). The hierarchical and functional barriers combined result
 in a organisation with inhibited exchange both horizontally and vertically,
-which are referred to as _isolated knowledge islands_.
+which are referred to as _isolated knowledge islands_. (Schaub, 2019)
 
 ## The Three Ways
 
@@ -102,6 +102,10 @@ subordinates can be distinguished as follows:
       shoes and on their level.
     - Your team sees that you do not just delegate, but also understand what is
       going on, and therefore will trust you more.
+
+## Source
+
+Schaub, R. (2019, March). Live Talk at HSLU.
 
 # Questions & Answers
 
