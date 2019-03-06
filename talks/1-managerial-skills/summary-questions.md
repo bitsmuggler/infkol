@@ -46,7 +46,7 @@ January 2007 Issue
 # Questions
 
 1. How can you tell when you are facing ordinary adjustment problems and when
-   it is your actual wrong-doing? What are key indicators?
+   it is your actual wrong-doing?
 2. Aren't these adjustment problems a neccessity to prepare you as a manager
    for worse situations?
 3. What are some of these problems that almost always occur when transitioning
