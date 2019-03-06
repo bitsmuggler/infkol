@@ -61,10 +61,9 @@ learned how to do it already
 1. How can you tell when you are facing ordinary adjustment problems and when
    it is your actual wrong-doing?
     - error != wrong-doing
-    - have to step out of your engineering role/skills
-    - need to trust subordinates
-    - more management skills (schedule, plan, negotiation) needed
     - have to decide, always will make mistakes
+    - big picture thinking
+    - track parameters to find out if you can improve
 2. Aren't these adjustment problems a neccessity to prepare you as a manager
    for worse situations?
     - only few companies help
@@ -72,7 +71,9 @@ learned how to do it already
     - "traumatic" first year is not well-known, companies are not aware of the issue
 3. What are some of these problems that almost always occur when transitioning
    to a first manager position?
-    - see above
+    - have to step out of your engineering role/skills
+    - need to trust subordinates (even though you have more experience in some fields)
+    - more management skills (schedule, plan, negotiation) needed
 4. Will becoming a manager stay equally hard when many companies are themselves
    transitioning from hierarchical to more flat organizations?
     - always measured by success
@@ -80,7 +81,9 @@ learned how to do it already
     - also "agile" companies need managers
     - Nelson Mandela: plan for underground activity was a hierarchical plan
     - a sort of hierarchy is always needed
+    - similar problems will occur anyway ("Product Owner", "Scrum Master" is not higher in the hierarchy, but also a different role)
 5. Aren't there also situations where neglecting all forms of authority in
    order to build better relationships with subordinates become a problem in
    itself?
-    - make something up
+    - leading a former friend is difficult, respect needed, a friend is on the same level, not so a boss
+    - a friend will take advantage of his situation
