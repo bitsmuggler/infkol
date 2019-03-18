@@ -40,7 +40,7 @@ messages at least once, at most once, or effectiverly once. (Ward, 2018)
 # Sources
 
 - James Ward, Introduction to Apache Kafka, Devoxx Converence 2017,
-  [YouTube](https://www.youtube.com/watch?v=UEg 40Te8pnE)
+  [YouTube](https://www.youtube.com/watch?v=UEg40Te8pnE)
 
 - Kafka Website (Apache Foundation),
   [kafka.apache.org](https://kafka.apache.org/)
@@ -52,3 +52,7 @@ messages at least once, at most once, or effectiverly once. (Ward, 2018)
 3. Is Kafka the ultimate interface for interconnecting microservices?
 4. Is Kafka suitable to process big media payloads (audio, video, pictures)?
 5. Does Kafka work well in a Kubernetes environment with a network file system?
+6. Difference between Kafka, ActiveMQ and RabbitMQ?
+7. How does versioning of records work?
+8. What's the purpose of zookeeper in kafka's ecosystem?
+9. Do you recommend Kafka is a cqrs eventstore?
