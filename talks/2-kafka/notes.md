@@ -86,7 +86,8 @@
 
 # Sources
 
-James Ward, Introduction to Apache Kafka, Devoxx Converence 2017, https://www.youtube.com/watch?v=UEg40Te8pnE
+James Ward, Introduction to Apache Kafka, Devoxx Converence 2017, [YouTube](https://www.youtube.com/watch?v=UEg40Te8pnE)
+
 "A distributed streaming platform", Apache Foundation, https://kafka.apache.org/
 
 # Questions
