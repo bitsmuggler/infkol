@@ -1,7 +1,4 @@
-# Sources
-
-James Ward, Introduction to Apache Kafka, Devoxx Converence 2017, https://www.youtube.com/watch?v=UEg40Te8pnE
-"A distributed streaming platform", Apache Foundation, https://kafka.apache.org/
+# Notes
 
 - Problem
     - data integration is a challenge
@@ -86,6 +83,11 @@ James Ward, Introduction to Apache Kafka, Devoxx Converence 2017, https://www.yo
     - AKKA streams: reactive streams (source/sink stream processing)
         - back-pressure (tell producer to slow down)
 - text-based serialization (JSON, XML, YAML) too slow for intended loads
+
+# Sources
+
+James Ward, Introduction to Apache Kafka, Devoxx Converence 2017, https://www.youtube.com/watch?v=UEg40Te8pnE
+"A distributed streaming platform", Apache Foundation, https://kafka.apache.org/
 
 # Questions
 
