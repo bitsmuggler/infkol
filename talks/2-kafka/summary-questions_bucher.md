@@ -39,7 +39,8 @@ messages at least once, at most once, or effectiverly once. (Ward, 2018)
 
 # Sources
 
-- James Ward, Introduction to Apache Kafka, Devoxx Converence 2017,
+
+- James Ward, Introduction to Apache Kafka, Devoxx Conference 2017,
   [YouTube](https://www.youtube.com/watch?v=UEg40Te8pnE)
 
 - Kafka Website (Apache Foundation),
